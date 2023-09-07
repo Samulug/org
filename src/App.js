@@ -16,7 +16,7 @@ function App() {
     equipo: "Programacion",
     foto:"https://github.com/Samulug.png",
     nombre:"Samuel Rodriguez",
-    puesto:"Aprendis"
+    puesto:"Aprendiz"
     ,fav:true,
     },
     {
